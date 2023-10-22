@@ -4,7 +4,14 @@ body {
   font-family: Arimo, sans-serif;
   margin: 8px 7.5vw;
   background: linear-gradient(to bottom, #A2DFF7, #FFC1E1);
+  
 
+}
+html, body {
+  height: 300%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
